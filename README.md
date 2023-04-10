@@ -1,5 +1,7 @@
 # 🐍🤖OpenAI-powered ChatBOT made with python and QT5
 
+![image](https://user-images.githubusercontent.com/76167482/230812945-a4d3bb83-022b-4793-847f-628188b1b9e5.png)
+
 ## ⚙ SETUP
 ---------
 1) Create a virtual environment using the command
