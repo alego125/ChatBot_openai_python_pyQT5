@@ -19,11 +19,13 @@ pip install -r requirements.txt
 
 ## 💨 Run the program
 --------
+First of all, you must make sure that you have obtained the API key from [OpenAI](https://platform.openai.com/account/api-keys). Once you have saved the API key, you can proceed with the following steps
+
 To run the program, open the command prompt and execute the following command:
 ~~~
 python main.py
 ~~~
 
-To run the chatbot, you should go to the top of the window, specifically to the part that says "File". There, you should click on the button to add the API key. After this, a popup window will appear where you will need to enter the API key previously obtained from the official OpenAI website. Once you have entered the API key, click "Accept" and you will be able to start asking questions to the chatbot.
+After that to run the chatbot, you should go to the top of the window, specifically to the part that says "File". There, you should click on the button to add the API key. After this, a popup window will appear where you will need to enter the API key previously obtained from the official OpenAI website. Once you have entered the API key, click "Accept" and you will be able to start asking questions to the chatbot.
 
 ![image](https://user-images.githubusercontent.com/76167482/230813678-2810dc7d-0d29-479a-9dd1-356127e62875.png)
